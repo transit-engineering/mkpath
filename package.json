@@ -1,6 +1,6 @@
 {
   "name": "mkpath",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "author": "Jonathan Rajavuori <jrajav@gmail.com>",
   "description": "Make all directories in a path, like mkdir -p",
   "repository": {
